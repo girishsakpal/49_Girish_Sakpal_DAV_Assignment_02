@@ -1,0 +1,18 @@
+SVM Results
+====================
+
+Accuracy: 0.55
+Precision: 0.519551282051282
+Recall: 0.55
+F1 Score: 0.5033333333333333
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    negative       0.33      0.14      0.20         7
+     neutral       0.75      0.60      0.67         5
+    positive       0.54      0.88      0.67         8
+
+    accuracy                           0.55        20
+   macro avg       0.54      0.54      0.51        20
+weighted avg       0.52      0.55      0.50        20
