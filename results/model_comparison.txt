@@ -1,0 +1,16 @@
+Model Comparison Results
+=========================
+
+              Model  Accuracy  Precision  Recall  F1 Score  Final Score
+        Naive Bayes      0.60      0.636    0.60     0.573       0.6000
+                SVM      0.55      0.519    0.55     0.503       0.5219
+Logistic Regression      0.60      0.750    0.60     0.532       0.6178
+
+Best Model:
+Model          Logistic Regression
+Accuracy                       0.6
+Precision                     0.75
+Recall                         0.6
+F1 Score                     0.532
+Final Score                 0.6178
+Name: 2, dtype: object
